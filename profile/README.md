@@ -1,5 +1,5 @@
 # Code Fly
 
-Code Fly is a project created as an alternative to the jetbrains IDE's.
+Code Fly is a project created to provide an ide with built in language support for almost any language.
 
-Right now we only have php fly for php (which is incomplete) but we plan on having more IDE's for more languages in the future.
+Website: https://codefly.lncvrt.xyz
